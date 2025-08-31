@@ -1,4 +1,4 @@
-#  Courier/Parcel Management System  
+#  Courier Management System  
 
 A **Courier & Parcel Management System** built using **PHP, HTML, CSS, and MySQL**.  
 This project helps customers, couriers, and managers manage and track shipments.  
@@ -34,7 +34,7 @@ This project helps customers, couriers, and managers manage and track shipments.
 - **Frontend:** HTML, CSS  
 - **Backend:** PHP  
 - **Database:** MySQL  
-- **Server:** XAMPP / WAMP  
+- **Server:** XAMPP  
 
 ---
 
