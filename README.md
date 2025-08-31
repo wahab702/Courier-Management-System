@@ -30,7 +30,7 @@ This project helps customers, couriers, and managers manage and track shipments.
 
 ---
 
-##  Tech Stack  
+## Tech Stack  
 - **Frontend:** HTML, CSS  
 - **Backend:** PHP  
 - **Database:** MySQL  
